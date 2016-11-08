@@ -1,4 +1,4 @@
-# uexExtension插件接口文档
+# AppCan iOS Extension接口文档
 
 ### 使用需求
 
